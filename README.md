@@ -267,4 +267,4 @@ This repository serves as the official landing page for Pictus. The software is 
 **Get the most recent version of Pictus today!**
 
 ---
-**Last updated:** 2026-09-12 11:49:48 UTC
+**Last updated:** 2026-09-12 14:42:19 UTC
